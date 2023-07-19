@@ -23,4 +23,6 @@ I believe all goals can be achieved with a good attitude as far as you're willin
 
 Languages & Tools
 ![Python-logo-notext svg](https://github.com/Cimmy12/Cimmy12/assets/111805689/330dcbe6-9e30-4e55-bd62-167947343aa2)
-![getpostman-icon](https://github.com/Cimmy12/Cimmy12/assets/111805689/6e728a78-6ea7-4279-a148-357d32e322bf)
+![getpostman-icon](https://github.com/Cimmy12/Cimmy12/assets/111805689/6e728a78-6ea7-4279-a148-357d32e322bf)![github-ar21](https://github.com/Cimmy12/Cimmy12/assets/111805689/65354a07-03ef-4805-bec4-76ec761e5ab8)![browserstack-ar21](https://github.com/Cimmy12/Cimmy12/assets/111805689/12987318-33a8-465e-ac02-64fa4c9444b8)
+
+
