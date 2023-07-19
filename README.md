@@ -22,7 +22,7 @@ I manage my time effectively and efficiently while at the same time making sure 
 I believe all goals can be achieved with a good attitude as far as you're willing to put in the required effort.
 
 Connect with me:
-https://www.linkedin.com/in/simisola-adanri-1a68b7240/ twitter.com/Cimmysorlah
+https://twitter.com/home
 
 
 Languages & Tools
