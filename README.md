@@ -1,5 +1,6 @@
 
-https://iconscout.com/icon/qa-testing-9196145
+![240_F_304862510_Vyp8F7JKRbPId7ddnC3tFDoLbdSrhrH3](https://github.com/Cimmy12/Cimmy12/assets/111805689/e1458b47-455a-4e18-81aa-7b4dfeab7dd2)
+
 
 
 I am Simisola Adanri a Software Quality Assurance Engineer.
@@ -21,6 +22,6 @@ goals, which may involve working under pressure to meet tight deadlines.
 
 
 Languages & Tools
-https://developer.mozilla.org/en-US/docs/Web/JavaScript https://www.jenkins.io/ https://www.postman.com/
+
 
 
