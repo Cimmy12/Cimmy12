@@ -21,11 +21,9 @@ I have excellent problem-solving skills. I am highly adaptable to new settings a
 I manage my time effectively and efficiently while at the same time making sure stakeholders get value for money. I have a strong commitment to qualitative outcomes by utilizing my analytical, logical, and technical skills as appropriate. 
 I believe all goals can be achieved with a good attitude as far as you're willing to put in the required effort.
 
-Connect with me:
-https://twitter.com/home
-
 
 Languages & Tools
+https://www.postman.com/
 
 
 
